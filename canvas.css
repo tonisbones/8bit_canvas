@@ -1,0 +1,21 @@
+#myCanvas {
+
+	display: block;
+}
+#colors {
+	border: 1px solid black;
+}
+.selected {
+	bakcground-color: black;
+}
+.color {
+	display: inline;
+	height: 20px;
+	width: 50px;
+}
+#color_blue {
+	background-color: blue;
+}
+#color_red {
+	background-color: red;
+}
